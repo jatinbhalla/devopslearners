@@ -1,0 +1,15 @@
+akshay, Akshay,Raffi
+chirangi,khazi,sowmya
+shaik, jatin
+
+git/github
+azure-900-fundamentals
+azure-104-adminstrator
+azure-400- azure devops
+ci/cd
+docker
+kubernets
+helm
+terraform
+ansible
+jenkins
