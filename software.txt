@@ -1,0 +1,12 @@
+Now:
+Git
+terraform
+Visual studio code
+Tortoise git
+Maven
+azure powershell
+azure cli
+vmware/vbox
+later:
+Azure subscription
+azure devops
