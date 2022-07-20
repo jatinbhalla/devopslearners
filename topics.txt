@@ -1,12 +1,14 @@
 
 git/github
-azure-900-fundamentals
-azure-104-adminstrator
+azure-900-fundamentals  --->https://docs.microsoft.com/en-us/certifications/exams/az-900
+azure-104-adminstrator   ---->
 azure-400- azure devops
-ci/cd
+ci/cd- web app services/ vm
 docker
 kubernets
 helm
 terraform
+ARM templates
+powershell/cli
 ansible
 jenkins
