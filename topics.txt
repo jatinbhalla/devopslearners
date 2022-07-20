@@ -1,9 +1,3 @@
-akshay, Akshay,Raffi
-
-chirangi,khazi,sowmya
-https://education.github.com/git-cheat-sheet-education.pdf
-
-shaik, jatin
 
 git/github
 azure-900-fundamentals
