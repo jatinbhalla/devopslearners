@@ -1,3 +1,4 @@
 link to download git-https://git-scm.com/downloads
 git cheat sheat:https://education.github.com/git-cheat-sheet-education.pdf
 tortoise git:https://tortoisegit.org/
+az 900-https://docs.microsoft.com/en-us/certifications/exams/az-900
